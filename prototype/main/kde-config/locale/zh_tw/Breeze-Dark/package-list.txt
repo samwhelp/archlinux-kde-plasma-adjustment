@@ -8,6 +8,21 @@
 
 
 ##
+## ## Package / Window Manager / kwin
+##
+
+
+#kwin
+
+#kglobalaccel
+#kglobalacceld
+
+kdeplasma-addons
+
+
+
+
+##
 ## ## Package / Tool
 ##
 
